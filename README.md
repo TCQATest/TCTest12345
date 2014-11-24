@@ -1,4 +1,3 @@
-TCTest12345
-===========
+# Test Repo
 
 GitHub training
